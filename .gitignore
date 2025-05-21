@@ -32,3 +32,10 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # Finder (MacOS) folder config
 .DS_Store
+the_scraper/__pycache__/*.pyc
+monqui_events.csv
+page_source.html
+monqui_events.json
+the_scraper/moqui_scrape_backup.py
+bun.lockb
+debug_screenshot.png
